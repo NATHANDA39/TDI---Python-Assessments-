@@ -1,3 +1,9 @@
+
+# Q1. 
+## If-Else and Elif Statements 
+
+Write a Python function called check_grade that takes a score as input and prints "Pass" if the score is 50 or higher, and "Fail" otherwise. Extend the function to print "Excellent" if the score is 90 or above.   
+
 ```Python
 # Question 1 
 
